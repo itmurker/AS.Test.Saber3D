@@ -14,7 +14,7 @@
  *          1. SmallBook
  *          2. BigBook
  *          3. RecyclableBook
- *          5. Table
+ *          5. Table, TableLeg, CompositeTableLeg
  *          6. Catalog<TItem>
  *      - EntryPoint:
  *          1. Main.Init
